@@ -1,0 +1,17 @@
+E:\Baitapthayduong\Học C#\Bai18_WinForm\Bai18_WinForm\bin\Debug\net10.0-windows\Bai18_WinForm.exe
+E:\Baitapthayduong\Học C#\Bai18_WinForm\Bai18_WinForm\bin\Debug\net10.0-windows\Bai18_WinForm.deps.json
+E:\Baitapthayduong\Học C#\Bai18_WinForm\Bai18_WinForm\bin\Debug\net10.0-windows\Bai18_WinForm.runtimeconfig.json
+E:\Baitapthayduong\Học C#\Bai18_WinForm\Bai18_WinForm\bin\Debug\net10.0-windows\Bai18_WinForm.dll
+E:\Baitapthayduong\Học C#\Bai18_WinForm\Bai18_WinForm\bin\Debug\net10.0-windows\Bai18_WinForm.pdb
+E:\Baitapthayduong\Học C#\Bai18_WinForm\Bai18_WinForm\obj\Debug\net10.0-windows\Bai18_WinForm.frmMain.resources
+E:\Baitapthayduong\Học C#\Bai18_WinForm\Bai18_WinForm\obj\Debug\net10.0-windows\Bai18_WinForm.Formcon.resources
+E:\Baitapthayduong\Học C#\Bai18_WinForm\Bai18_WinForm\obj\Debug\net10.0-windows\Bai18_WinForm.csproj.GenerateResource.cache
+E:\Baitapthayduong\Học C#\Bai18_WinForm\Bai18_WinForm\obj\Debug\net10.0-windows\Bai18_WinForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Baitapthayduong\Học C#\Bai18_WinForm\Bai18_WinForm\obj\Debug\net10.0-windows\Bai18_WinForm.AssemblyInfoInputs.cache
+E:\Baitapthayduong\Học C#\Bai18_WinForm\Bai18_WinForm\obj\Debug\net10.0-windows\Bai18_WinForm.AssemblyInfo.cs
+E:\Baitapthayduong\Học C#\Bai18_WinForm\Bai18_WinForm\obj\Debug\net10.0-windows\Bai18_WinForm.csproj.CoreCompileInputs.cache
+E:\Baitapthayduong\Học C#\Bai18_WinForm\Bai18_WinForm\obj\Debug\net10.0-windows\Bai18_WinForm.dll
+E:\Baitapthayduong\Học C#\Bai18_WinForm\Bai18_WinForm\obj\Debug\net10.0-windows\refint\Bai18_WinForm.dll
+E:\Baitapthayduong\Học C#\Bai18_WinForm\Bai18_WinForm\obj\Debug\net10.0-windows\Bai18_WinForm.pdb
+E:\Baitapthayduong\Học C#\Bai18_WinForm\Bai18_WinForm\obj\Debug\net10.0-windows\Bai18_WinForm.genruntimeconfig.cache
+E:\Baitapthayduong\Học C#\Bai18_WinForm\Bai18_WinForm\obj\Debug\net10.0-windows\ref\Bai18_WinForm.dll
